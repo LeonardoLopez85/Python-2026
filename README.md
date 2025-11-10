@@ -52,7 +52,7 @@ git clone https://github.com/tu-usuario/python-curso-unemi.git
 │   │   ├── U4-Ejercicio-1 - 1_decoradores_tiempo.py
 │   │   ├── U4-Ejercicio-2 - 2_generadores_secuencias.py
 │   │   └── U4-Ejercicio-3 - 3_api_clima.py
-└──
+└────
 ```
 
 ## 🏗️ Contenido por Unidades
