@@ -7,10 +7,10 @@
 ### Este repositorio contiene el material didáctico del curso "Python" ofrecido por la Universidad Estatal de Milagro, diseñado para desarrollar competencias en programación Python desde conceptos básicos hasta temas avanzados.
 
 ## 📅 Información del Curso
-Modalidad: MOOC (Massive Open Online Course)
-Duración: 40 horas asincrónicas
-Periodo: 5 al 31 de mayo 2025
-Instructor: Ing. Carlos Rodriguez Nieto, MSc
+- Modalidad: MOOC (Massive Open Online Course)
+- Duración: 40 horas asincrónicas
+- Periodo: 5 al 31 de mayo 2025
+- Instructor: Ing. Carlos Rodriguez Nieto, MSc
 
 
 ## ⬇️ INSTRUCCIONES PARA DESCARGAR
@@ -60,34 +60,23 @@ git clone https://github.com/tu-usuario/python-curso-unemi.git
 ## 🏗️ Contenido por Unidades
 
 ### 🟢 Unidad 1: Introducción a Python
-```text
-Temas: Variables, tipos de datos, operadores, estructuras condicionales, bucles
-```
+- Temas: Variables, tipos de datos, operadores, estructuras condicionales, bucles
 
 ### 🔵 Unidad 2: Programación Intermedia
-```text
-Temas: Estructuras de datos, funciones, manejo de archivos, excepciones
-```
+- Temas: Estructuras de datos, funciones, manejo de archivos, excepciones
 
 ### 🟡 Unidad 3: Programación Orientada a Objetos
-```text
-Temas: Clases, herencia, polimorfismo, creación de scripts
-```
+- Temas: Clases, herencia, polimorfismo, creación de scripts
 
 ### 🔴 Unidad 4: Programación Avanzada
-```text
-Temas: Decoradores, generadores, consumo de APIs
-```
+- Temas: Decoradores, generadores, consumo de APIs
 
 ## 🚀 Proyecto Final: Sistema de Gestión de Tienda Online
 
 ### 📦 Descripción del Proyecto
-```text
 Sistema completo que integra todos los temas del curso, implementando una tienda online con funcionalidades avanzadas.
-```
 
 ### 🛠️ Características Principales
-```text
 - Gestión de productos con Programación Orientada a Objetos
 - Carrito de compras con estructuras de datos complejas
 - Sistema de clientes con herencia y polimorfismo
@@ -95,26 +84,22 @@ Sistema completo que integra todos los temas del curso, implementando una tienda
 - Persistencia de datos en archivos JSON
 - Consumo de APIs externas para tipo de cambio
 - Generadores para búsquedas eficientes
-```
 
 ### 📋 Funcionalidades Implementadas
-```text
 - ✅ Catálogo de productos con búsqueda
 - ✅ Carrito de compras interactivo
 - ✅ Sistema de descuentos por tipo de cliente
 - ✅ Registro de ventas en archivo
 - ✅ Manejo de excepciones completo
 - ✅ Interfaz de usuario en consola
-```
 
 ### 🛠️ Requisitos del Sistema
 #### 📋 Prerrequisitos
-```text
 - Python 3.8 o superior
 - Conexión a internet (para ejercicios de API)
 - Editor de código (VS Code, PyCharm, o similar)
 - Google Colab (opcional, para ejecución en la nube)
-```
+
 #### 📦 Dependencias
 ```bash
 # Requerimientos mínimos
@@ -126,18 +111,15 @@ pip install requests python-dateutil
 ```
 
 ## 📧 Contacto del Instructor
-```text
 - Nombre: Ing. Carlos Rodriguez Nieto, MSc
 - Email: crxxxxx@unemi.edu.ec
 - Institución: Universidad Estatal de Milagro
-```
 
 ## 📜 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles.
 
 ## 🙏 Agradecimientos
-```text
 - Universidad Estatal de Milagro por el apoyo institucional
 - Escuela de Formación y Emprendimiento por la logística
 - Estudiantes por su participación y feedback
-```
+
